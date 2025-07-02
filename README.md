@@ -45,7 +45,6 @@ fake-news-detector/
 ├── vectorizer.pkl          # TF-IDF vectorizer
 ├── known_sources.py        # Lists of trusted/untrusted domains
 ├── source_checker.py       # Functions to check source reliability and fetch titles
-├── google_utils.py         # Google Search API integration
 ├── logs.csv                # Prediction logs (auto-generated)
 ├── style.css               # Custom CSS for beautiful UI
 ├── .gitignore              # Ignore config and system files
