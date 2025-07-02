@@ -1,0 +1,22 @@
+# Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Logs
+logs.csv
+
+# Secret config
+.streamlit/secrets.toml
+
+id.txt
+
+vectorizer.pkl
+
+Fake.csv
+True.csv
+
+*.pkl
+*.csv
